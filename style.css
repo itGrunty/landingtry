@@ -27,6 +27,8 @@ h1{
 
 
 .btn-primary{
+	font-weight:700;
+	border-radius: 300px;
 	background-color: #d762ca;
 	border-color: #d762ca;
 	border-radius: 200px;
